@@ -8,7 +8,7 @@ _Variables(変数)_ について学んでいきましょう！この _Swift Play
 > [action]
 >
 1. デスクトップで右クリックをして、新しいフォルダを作成します。"Make School Projects"と名前をつけましょう。
-1. [ここ]()からPlaygroundをダウンロードします。
+1. [ここ](https://github.com/MakeSchool-Tutorials/Intro-Variables-Swift-Playground/archive/swift4-japanese.zip)からPlaygroundをダウンロードします。
 1. ダブルクリックをして、ダウンロードしたzipデータを解答します。
 1. `Variables.playground`というファイルが解答したフォルダに入っているはずです。初めに作った"Make School Projects"フォルダにそのファイルを移しましょう。
 1. `Variables.playground`を開いて始めましょう！
