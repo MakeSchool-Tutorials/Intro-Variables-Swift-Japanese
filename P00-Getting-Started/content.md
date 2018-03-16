@@ -5,7 +5,7 @@ slug: variables-playground
 
 _Variables(変数)_ について学んでいきましょう！この _Swift Playground_ では、どうやってデータを保存するのか、読むのか、また更新するのかを学びます。データにも色々な種類があることも学びます。
 
-> [アクション]
+> [action]
 >
 1. デスクトップで右クリックをして、新しいフォルダを作成します。"Make School Projects"と名前をつけましょう。
 1. [ここ]()からPlaygroundをダウンロードします。
